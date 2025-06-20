@@ -1,4 +1,4 @@
-![phantomRootLogo](https://github.com/user-attachments/assets/9f93dc62-c21e-44c6-829d-581b79f06a54)
+![Screenshot 2025-06-20 165751](https://github.com/user-attachments/assets/55e0326a-34b7-4af4-a17b-f823cf38ba74)
 
 Welcome to **PhantomRoot** project that was created by @redface and @laz606
 
