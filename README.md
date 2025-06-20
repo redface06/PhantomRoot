@@ -1,3 +1,5 @@
+![phantomRootLogo](https://github.com/user-attachments/assets/9f93dc62-c21e-44c6-829d-581b79f06a54)
+
 Welcome to **PhantomRoot** project that was created by @redface and @laz606
 
 What is **PhantomRoot** ?
